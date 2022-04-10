@@ -280,6 +280,17 @@ footer .top_footer{
 }
 
 @media screen and (max-width: 768px){
+    footer{
+        font-size: 13px;
+    }
+    
+    .search img {
+        object-fit: contain;
+        height: 80px;
+        aspect-ratio: auto 272 / 80;
+        width: 272px;
+      }
+
     .bottom_footer{
         justify-content: space-around;
     }
