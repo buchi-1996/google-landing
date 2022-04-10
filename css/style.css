@@ -189,7 +189,7 @@ footer{
 }
 
 footer .top_footer{
-    padding: 15px 30px;
+    padding: 10px 30px;
     border-bottom: 1px solid #dadce0;
     font-size: 15px;
     color: #70757a;
@@ -203,7 +203,7 @@ footer .top_footer{
     padding: 10px 30px;
 }
 .bottom_footer .box1{
-    padding: 15px 0;
+    padding: 10px 0;
     order: 1;
     justify-content: flex-start;
 }
