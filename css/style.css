@@ -293,6 +293,7 @@ footer .top_footer{
 
     .bottom_footer{
         justify-content: space-around;
+        padding: 15px 0;
     }
 
     .box1 ul li{
